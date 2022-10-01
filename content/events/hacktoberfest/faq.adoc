@@ -12,7 +12,7 @@ links:
   gitter: jenkinsci/hacktoberfest
   discourse: https://community.jenkins.io/t/hacktoberfest-2022/3805
 opengraph:
-  image: /images/hacktoberfest/hacktoberfest_2022_social.png
+  image: /images/hacktoberfest/hacktoberfest_2022_social_600x300.png
 ---
 
 
